@@ -5,13 +5,11 @@
 ##### Lower 5
 ###### Lowest 6
 
+
+This is text
 * Bullet
 * Bullet
 * Dead
-
-1. One
-2. Two
-3. Three
 
 ``` 
 this is code
