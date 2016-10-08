@@ -1,3 +1,6 @@
+# GLacial Realms Development Hub
+Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue
+
 # Downloads & Information #
 Plugin | Tracker | Version | Required
 ------------- | ------------- | ------------- | -------------
