@@ -17,7 +17,7 @@ Plugin | Tracker | Version | Required
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | Phantom
 
 # Phantom PRISM #
-[![](https://bitbucket.org/repo/rBGMdk/images/2031876360-button.png)](https://github.com/cyberpwnn/Phantom/releases)
+[![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins #
