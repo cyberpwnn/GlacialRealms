@@ -4,17 +4,17 @@ Some sources have been locked from the public, this is useful for the issue trac
 # Downloads & Information #
 Plugin | Tracker | Version | Required
 ------------- | ------------- | ------------- | -------------
-[**AFK**](https://bitbucket.org/glacialrealm/afk/downloads) - AFK Players with more features. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.1 | Phantom 
-[**FRTP**](https://bitbucket.org/glacialrealm/frtp/downloads) - FAST Random TP built for efficiency and speed. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | Phantom 
-[**CurrencyShops**](https://bitbucket.org/glacialrealm/currencyshops/downloads) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.7 | Phantom, Vault 
-[**Hadron**](https://bitbucket.org/glacialrealm/hadron/downloads) - Anticheat with the power demand of a hadron collider. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | Phantom 
-[**Titles**](https://bitbucket.org/glacialrealm/titles/downloads) - Titles that players can get and customize as chat tags. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.5 | Phantom, PlaceholderAPI
-[**Static**](https://bitbucket.org/glacialrealm/static/downloads) - Statistics crammed into a database. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.3 | Phantom, Votifier, PlaceholderAPI
-[**Effex**](https://bitbucket.org/glacialrealm/effex/downloads) - Enchantments, Potions, Effex. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.5 | Phantom
-[**Commune**](https://bitbucket.org/glacialrealm/commune/downloads) - Community enhancements, security and more. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 7 | Phantom, PlaceholderAPI, WorldGuard, Essentials
-[**Factions+**](https://bitbucket.org/glacialrealm/factionsplus/downloads) - Factions Enhancements | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.5 | Phantom, Factions, React, CurrencyShops, Vault
-[**FAP**](https://bitbucket.org/glacialrealm/fap/downloads) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | Phantom
-[**Technic**](https://bitbucket.org/glacialrealm/technic/downloads) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | Phantom
+[**AFK**](https://github.com/cyberpwnn/AFK/releases) - AFK Players with more features. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.1 | Phantom 
+[**FRTP**](https://github.com/cyberpwnn/FRTP/releases) - FAST Random TP built for efficiency and speed. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | Phantom 
+[**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.7 | Phantom, Vault 
+[**Hadron**](https://github.com/cyberpwnn/Hadron/releases) - Anticheat with the power demand of a hadron collider. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | Phantom 
+[**Titles**](https://github.com/cyberpwnn/Titles/releases) - Titles that players can get and customize as chat tags. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.5 | Phantom, PlaceholderAPI
+[**Static**](https://github.com/cyberpwnn/Static/releases) - Statistics crammed into a database. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.3 | Phantom, Votifier, PlaceholderAPI
+[**Effex**](https://github.com/cyberpwnn/Effex/releases) - Enchantments, Potions, Effex. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.5 | Phantom
+[**Commune**](https://github.com/cyberpwnn/Commune/releases) - Community enhancements, security and more. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 7 | Phantom, PlaceholderAPI, WorldGuard, Essentials
+[**Factions+**](https://github.com/cyberpwnn/FactionsPlus/releases) - Factions Enhancements | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.5 | Phantom, Factions, React, CurrencyShops, Vault
+[**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | Phantom
+[**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | Phantom
 
 # Phantom PRISM #
 [![](https://bitbucket.org/repo/rBGMdk/images/2031876360-button.png)](https://github.com/cyberpwnn/Phantom/releases)
@@ -23,7 +23,7 @@ Plugin | Tracker | Version | Required
 # Required Plugins #
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | P4
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | P5
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
