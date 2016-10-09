@@ -16,14 +16,14 @@ Plugin | Tracker | Version | Required
 [**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | Phantom
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | Phantom
 
-# Phantom PRISM 5 #
+# Phantom PRISM 6 #
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins #
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | P5
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | P6
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
