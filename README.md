@@ -3,7 +3,7 @@ Some sources have been locked from the public, this is useful for the issue trac
 
 # Downloads & Information #
 Plugin | Tracker | Status | Version | Required
-------------- | ------------- | ------------- | -------------
+------------- | ------------- | ------------- | ------------- | -------------
 [**AFK**](https://github.com/cyberpwnn/AFK/releases) - AFK Players with more features. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.1 | [![CircleCI](https://circleci.com/gh/cyberpwnn/AFK.svg?style=svg&circle-token=478d683948bb15506473920c7c667fac67ba4e81)](https://circleci.com/gh/cyberpwnn/AFK) | Phantom 
 [**FRTP**](https://github.com/cyberpwnn/FRTP/releases) - FAST Random TP built for efficiency and speed. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | v | Phantom 
 [**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.7 | v | Phantom, Vault 
