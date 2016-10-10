@@ -14,17 +14,17 @@ Plugin | Tracker | Version | Required
 [**Commune**](https://github.com/cyberpwnn/Commune/releases) - Community enhancements, security and more. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 7.4 | Phantom, PlaceholderAPI, WorldGuard, Essentials
 [**Factions+**](https://github.com/cyberpwnn/FactionsPlus/releases) - Factions Enhancements | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.5 | Phantom, Factions, React, CurrencyShops, Vault
 [**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | Phantom
-[**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | Phantom
+[**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | Phantom
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | Phantom
 
-# Phantom PRISM 6 #
+# Phantom PRISM 8 #
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins #
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | P6
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | P8
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
