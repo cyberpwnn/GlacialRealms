@@ -34,5 +34,6 @@ Plugin | Version
 [**FAWE**](https://github.com/boy0001/FastAsyncWorldedit/releases) - Fast async everything | 3.5.0
 
 # Update Logs for 10/12/2016
+Some updates that have been pushed as of today
 * Commune <> 7.8
 * Effex <> 1.9
