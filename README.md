@@ -4,10 +4,10 @@ Some sources have been locked from the public, this is useful for the issue trac
 ### Update Logs for ```10/12/16```
 Some updates that have been pushed as of today
 * **Commune 7.8**
- * ~~Commune 7.7~~
+ * Commune 7.7
 * **Effex 2.1**
- * ~~Effex 2.0~~
- * ~~Effex 1.9~~
+ * Effex 2.0
+ * Effex 1.9
 
 
 
