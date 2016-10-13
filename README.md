@@ -1,6 +1,11 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue
 
+### Update Logs for 10/12/2016
+Some updates that have been pushed as of today
+* Commune <> 7.8
+* Effex <> 2.0
+
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
 [**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/CurrencyShops.svg?style=svg&circle-token=ccb4ed96514a9bde1c28a3f5123a926ad984e46f)](https://circleci.com/gh/cyberpwnn/CurrencyShops) | Phantom, Vault 
@@ -32,8 +37,3 @@ Plugin | Version
 [**Votifier**](https://dev.bukkit.org/bukkit-plugins/votifier/files/9-votifier-1-9/) - Required for some plugins for voting events | 1.9
 [**Citizens**](https://dev.bukkit.org/bukkit-plugins/citizens/files/52-2-0-16-beta-1-for-mc-1-8-8/) - NPC's | 2.0.16
 [**FAWE**](https://github.com/boy0001/FastAsyncWorldedit/releases) - Fast async everything | 3.5.0
-
-# Update Logs for 10/12/2016
-Some updates that have been pushed as of today
-* Commune <> 7.8
-* Effex <> 2.0
