@@ -3,8 +3,8 @@ Some sources have been locked from the public, this is useful for the issue trac
 
 ### Update Logs for ```10/12/16```
 Some updates that have been pushed as of today
-* Commune 7.8
-* Effex 2.0
+* **Commune 7.8**
+* **Effex 2.0**
 
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
