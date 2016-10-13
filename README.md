@@ -36,4 +36,4 @@ Plugin | Version
 # Update Logs for 10/12/2016
 Some updates that have been pushed as of today
 * Commune <> 7.8
-* Effex <> 1.9
+* Effex <> 2.0
