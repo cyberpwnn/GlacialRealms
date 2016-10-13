@@ -1,7 +1,7 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue
 
-### Update Logs for 10-12
+### Update Logs for ```10-12```
 Some updates that have been pushed as of today
 * Commune 7.8
 * Effex 2.0
