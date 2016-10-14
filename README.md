@@ -9,7 +9,8 @@ Some updates that have been pushed as of today
  * Effex 2.2
 * **Commune 8**
  * Commune 7.9
-* **Phantom S3**
+* **Phantom S4**
+ * Phantom S3
 * **Currency Shops 3.8**
 * **Technic 1.3**
  * Technic 1.2
@@ -31,14 +32,14 @@ Plugin | Tracker | Status | Version | Required
 [**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Icing.svg?style=svg&circle-token=55caa2d95a6a7d2d03fd9776f37fe733f9fdace0)](https://circleci.com/gh/cyberpwnn/Icing) | Phantom
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.3 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 
-# Phantom SHADOW 3
+# Phantom SHADOW 4
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | S3
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | S4
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
