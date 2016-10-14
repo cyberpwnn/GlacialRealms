@@ -13,7 +13,8 @@ Some updates that have been pushed as of today
 * **Phantom S4**
  * Phantom S3
 * **Currency Shops 3.8**
-* **Technic 1.3**
+* **Technic 1.4**
+ * Technic 1.3
  * Technic 1.2
  * Technic 1.1
 
@@ -31,7 +32,7 @@ Plugin | Tracker | Status | Version | Required
 [**Factions+**](https://github.com/cyberpwnn/FactionsPlus/releases) - Factions Enhancements | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.5 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FactionsPlus.svg?style=svg&circle-token=6d44bfe5db54516e2397dcf42e7c179c6736e0f0)](https://circleci.com/gh/cyberpwnn/FactionsPlus) | Phantom, Factions, React, CurrencyShops, Vault
 [**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FAP.svg?style=svg&circle-token=7b7baf7ec533ab8e1d1fc27f9b4dd63595d866d2)](https://circleci.com/gh/cyberpwnn/FAP) | Phantom
 [**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Icing.svg?style=svg&circle-token=55caa2d95a6a7d2d03fd9776f37fe733f9fdace0)](https://circleci.com/gh/cyberpwnn/Icing) | Phantom
-[**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.3 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
+[**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 
 # Phantom SHADOW 4
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
