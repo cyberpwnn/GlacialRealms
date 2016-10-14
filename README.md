@@ -7,6 +7,7 @@ Some updates that have been pushed as of today
  * Effex 2.2
 * **Commune 7.9**
 * **Phantom S3**
+* **Currency Shops 3.8**
 * **Technic 1.2**
  * Technic 1.1
 
@@ -15,7 +16,7 @@ Some updates that have been pushed as of today
 
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
-[**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/CurrencyShops.svg?style=svg&circle-token=ccb4ed96514a9bde1c28a3f5123a926ad984e46f)](https://circleci.com/gh/cyberpwnn/CurrencyShops) | Phantom, Vault 
+[**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/CurrencyShops.svg?style=svg&circle-token=ccb4ed96514a9bde1c28a3f5123a926ad984e46f)](https://circleci.com/gh/cyberpwnn/CurrencyShops) | Phantom, Vault 
 [**Hadron**](https://github.com/cyberpwnn/Hadron/releases) - Anticheat with the power demand of a hadron collider. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Hadron.svg?style=svg&circle-token=7786e3f19f07823eb3591b3900cf480e5908048e)](https://circleci.com/gh/cyberpwnn/Hadron) | Phantom 
 [**Titles**](https://github.com/cyberpwnn/Titles/releases) - Titles that players can get and customize as chat tags. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.5 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, PlaceholderAPI
 [**Static**](https://github.com/cyberpwnn/Static/releases) - Statistics crammed into a database. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, Votifier, PlaceholderAPI
