@@ -5,6 +5,9 @@ Some sources have been locked from the public, this is useful for the issue trac
 Some updates that have been pushed as of today
 * **Effex 2.2**
 * **Commune 7.9**
+* **Phantom S3**
+* **Technic 1.2**
+ * Technic 1.1
 
 
 
