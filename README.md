@@ -3,6 +3,7 @@ Some sources have been locked from the public, this is useful for the issue trac
 
 ### Update Logs for ```10/14/16```
 Some updates that have been pushed as of today
+* **FactionsPlus 3.6**
 * **Effex 2.6**
  * Effex 2.5
  * Effex 2.4
@@ -14,7 +15,8 @@ Some updates that have been pushed as of today
  * Phantom S4
  * Phantom S3
 * **Currency Shops 3.8**
-* **Technic 1.4**
+* **Technic 1.5**
+ * Technic 1.4
  * Technic 1.3
  * Technic 1.2
  * Technic 1.1
