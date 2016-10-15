@@ -7,7 +7,7 @@ Some updates that have been pushed as of today
 * **Phantom S7**
 * **Technic 1.6**
 * **Effex 2.9**
-* Effex 2.8
+ * Effex 2.8
 
 
 
