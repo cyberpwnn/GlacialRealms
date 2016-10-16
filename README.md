@@ -3,7 +3,7 @@ Some sources have been locked from the public, this is useful for the issue trac
 
 ### Update Logs for ```10/16/16```
 Some updates that have been pushed as of today
-
+* **Effex <> 3**
 
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
