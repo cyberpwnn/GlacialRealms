@@ -1,14 +1,8 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue
 
-### Update Logs for ```10/15/16```
+### Update Logs for ```10/16/16```
 Some updates that have been pushed as of today
-* **Commune 8.1**
-* **Phantom S7**
-* **Technic 1.6**
-* **Effex 2.9**
- * Effex 2.8
-
 
 
 Plugin | Tracker | Status | Version | Required
