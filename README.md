@@ -3,6 +3,7 @@ Some sources have been locked from the public, this is useful for the issue trac
 
 ### Update Logs for ```10/17/16```
 Some updates that have been pushed as of today
+* **Phantom S8**
 * **Effex 3.1**
 
 Plugin | Tracker | Status | Version | Required
