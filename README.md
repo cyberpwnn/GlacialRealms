@@ -1,12 +1,8 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue
 
-### Update Logs for ```10/17/16```
+### Update Logs for ```10/18/16```
 Some updates that have been pushed as of today
-* **Phantom S8**
-* **Effex 3.2**
- * Effex 3.1
-* **Technic 1.8**
 
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
