@@ -1,9 +1,9 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue
 
-### Update Logs for ```10/18/16```
+### Update Logs for ```10/19/16```
 Some updates that have been pushed as of today
-* **Commune 8.4**
+
 
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
