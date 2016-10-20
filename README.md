@@ -3,7 +3,7 @@ Some sources have been locked from the public, this is useful for the issue trac
 
 ### Update Logs for ```10/19/16```
 Some updates that have been pushed as of today
-
+* **FAP 1.5**
 
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -14,7 +14,7 @@ Plugin | Tracker | Status | Version | Required
 [**Effex**](https://github.com/cyberpwnn/Effex/releases) - Enchantments, Potions, Effex. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Effex.svg?style=svg&circle-token=7c90c161571fa5d7a402a2ac64dccd30d330d887)](https://circleci.com/gh/cyberpwnn/Effex) | Phantom
 [**Commune**](https://github.com/cyberpwnn/Commune/releases) - Community enhancements, security and more. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 8.4 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Commune.svg?style=svg&circle-token=6536db9c18a122eb922d8e798771fcb1f2be688f)](https://circleci.com/gh/cyberpwnn/Commune) | Phantom, PlaceholderAPI, WorldGuard, Essentials
 [**Factions+**](https://github.com/cyberpwnn/FactionsPlus/releases) - Factions Enhancements | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.6 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FactionsPlus.svg?style=svg&circle-token=6d44bfe5db54516e2397dcf42e7c179c6736e0f0)](https://circleci.com/gh/cyberpwnn/FactionsPlus) | Phantom, Factions, React, CurrencyShops, Vault
-[**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.4 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FAP.svg?style=svg&circle-token=7b7baf7ec533ab8e1d1fc27f9b4dd63595d866d2)](https://circleci.com/gh/cyberpwnn/FAP) | Phantom
+[**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.5 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FAP.svg?style=svg&circle-token=7b7baf7ec533ab8e1d1fc27f9b4dd63595d866d2)](https://circleci.com/gh/cyberpwnn/FAP) | Phantom
 [**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Icing.svg?style=svg&circle-token=55caa2d95a6a7d2d03fd9776f37fe733f9fdace0)](https://circleci.com/gh/cyberpwnn/Icing) | Phantom
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 
