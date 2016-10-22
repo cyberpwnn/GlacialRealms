@@ -1,14 +1,9 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```10/21/16```
+### Update Logs for ```10/22/16```
 Some updates that have been pushed as of today
-* **FAP 1.6**
-* **Technic 1.9**
-* **Commune 8.7**
-* **Effex 3.6**
- * Effex 3.5
- * Effex 3.4
+* **Phantom E**
 
 Plugin | Tracker | Status | Version | Required
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -23,14 +18,14 @@ Plugin | Tracker | Status | Version | Required
 [**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Icing.svg?style=svg&circle-token=55caa2d95a6a7d2d03fd9776f37fe733f9fdace0)](https://circleci.com/gh/cyberpwnn/Icing) | Phantom
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.9 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 
-# Phantom SHADOW 9
+# Phantom ENTROPY
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | S9
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | E9
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
