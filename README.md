@@ -7,7 +7,7 @@ Some updates that have been pushed as of today
 * **Effex 3.9**
  * Effex 3.8
 
-Plugin | Tracker | Version | Status | Required
+Plugin | Tracker | Version | Build Status | Required
 ------------- | ------------- | ------------- | ------------- | -------------
 [**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/CurrencyShops.svg?style=svg&circle-token=ccb4ed96514a9bde1c28a3f5123a926ad984e46f)](https://circleci.com/gh/cyberpwnn/CurrencyShops) | Phantom, Vault 
 [**Hadron**](https://github.com/cyberpwnn/Hadron/releases) - Anticheat with the power demand of a hadron collider. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Hadron.svg?style=svg&circle-token=7786e3f19f07823eb3591b3900cf480e5908048e)](https://circleci.com/gh/cyberpwnn/Hadron) | Phantom 
