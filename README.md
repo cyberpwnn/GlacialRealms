@@ -4,7 +4,8 @@ Some sources have been locked from the public, this is useful for the issue trac
 ### Update Logs for ```10/24/16```
 Some updates that have been pushed as of today
 * **Phantom Entropy 3**
-* **Effex 4**
+* **Effex 4.1**
+ * Effex 4
 * **Technic 2**
 
 Plugin | Tracker | Version | BuildStatus | Required
