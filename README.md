@@ -1,16 +1,9 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```10/25/16```
+### Update Logs for ```10/26/16```
 Some updates that have been pushed as of today
-* **Phantom Entropy 4**
- * Phantom Entropy 3
-* **Effex 4.1**
- * Effex 4
-* **Technic 2.3**
- * Technic 2.2
- * Technic 2.1
- * Technic 2
+
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
