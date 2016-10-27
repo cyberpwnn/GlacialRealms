@@ -1,11 +1,9 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```10/26/16```
+### Update Logs for ```10/27/16```
 Some updates that have been pushed as of today
 
-* **CurrencyShops 3.9**
-* **Technic 2.4**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
