@@ -1,12 +1,9 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```10/28/16```
+### Update Logs for ```10/29/16```
 Some updates that have been pushed as of today
 
-* **FAP 1.8**
- * FAP 1.7
-* **Phantom Entropy 5**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
