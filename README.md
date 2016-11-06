@@ -1,13 +1,12 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```11/2/16```
+### Update Logs for ```11/5/16```
 Some updates that have been pushed as of today
 
-* **Phantom Entropy 8**
-* **Effex 4.3**
-* **Static 1.5**
- * Effex 4.2
+* **Phantom Entropy 9**
+* **Effex 4.4**
+* **Technic 2.8**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -15,21 +14,21 @@ Plugin | Tracker | Version | BuildStatus | Required
 [**Hadron**](https://github.com/cyberpwnn/Hadron/releases) - Anticheat with the power demand of a hadron collider. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Hadron.svg?style=svg&circle-token=7786e3f19f07823eb3591b3900cf480e5908048e)](https://circleci.com/gh/cyberpwnn/Hadron) | Phantom 
 [**Titles**](https://github.com/cyberpwnn/Titles/releases) - Titles that players can get and customize as chat tags. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.6 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, PlaceholderAPI
 [**Static**](https://github.com/cyberpwnn/Static/releases) - Statistics crammed into a database. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.5 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, Votifier, PlaceholderAPI
-[**Effex**](https://github.com/cyberpwnn/Effex/releases) - Enchantments, Potions, Effex. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 4.3 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Effex.svg?style=svg&circle-token=7c90c161571fa5d7a402a2ac64dccd30d330d887)](https://circleci.com/gh/cyberpwnn/Effex) | Phantom
+[**Effex**](https://github.com/cyberpwnn/Effex/releases) - Enchantments, Potions, Effex. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 4.4 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Effex.svg?style=svg&circle-token=7c90c161571fa5d7a402a2ac64dccd30d330d887)](https://circleci.com/gh/cyberpwnn/Effex) | Phantom
 [**Commune**](https://github.com/cyberpwnn/Commune/releases) - Community enhancements, security and more. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 8.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Commune.svg?style=svg&circle-token=6536db9c18a122eb922d8e798771fcb1f2be688f)](https://circleci.com/gh/cyberpwnn/Commune) | Phantom, PlaceholderAPI, WorldGuard, Essentials
 [**Factions+**](https://github.com/cyberpwnn/FactionsPlus/releases) - Factions Enhancements | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.6 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FactionsPlus.svg?style=svg&circle-token=6d44bfe5db54516e2397dcf42e7c179c6736e0f0)](https://circleci.com/gh/cyberpwnn/FactionsPlus) | Phantom, Factions, React, CurrencyShops, Vault
 [**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.9 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FAP.svg?style=svg&circle-token=7b7baf7ec533ab8e1d1fc27f9b4dd63595d866d2)](https://circleci.com/gh/cyberpwnn/FAP) | Phantom
 [**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Icing.svg?style=svg&circle-token=55caa2d95a6a7d2d03fd9776f37fe733f9fdace0)](https://circleci.com/gh/cyberpwnn/Icing) | Phantom
-[**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
+[**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 
-# Phantom Entropy 8
+# Phantom Entropy 9
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | E8
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | E9
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
