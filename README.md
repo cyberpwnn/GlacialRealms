@@ -1,15 +1,10 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```11/7/16```
+### Update Logs for ```11/8/16```
 Some updates that have been pushed as of today
 
-* **Commune 8.8**
-* **Phantom Vortex**
-* **Technic 2.9**
-* **FAP 2.2**
- * FAP 2.1
- * FAP 2
+* **Phantom Vortex 2**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -31,7 +26,7 @@ Plugin | Tracker | Version | BuildStatus | Required
 # Required Plugins
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | V
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | V2
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
