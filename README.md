@@ -4,13 +4,14 @@ Some sources have been locked from the public, this is useful for the issue trac
 ### Update Logs for ```11/11/16```
 Some updates that have been pushed as of today
 
+* **Titles 2.8**
 * **CurrencyShops 4.1**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
 [**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 4.1 | [![CircleCI](https://circleci.com/gh/cyberpwnn/CurrencyShops.svg?style=svg&circle-token=ccb4ed96514a9bde1c28a3f5123a926ad984e46f)](https://circleci.com/gh/cyberpwnn/CurrencyShops) | Phantom, Vault 
 [**Hadron**](https://github.com/cyberpwnn/Hadron/releases) - Anticheat with the power demand of a hadron collider. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Hadron.svg?style=svg&circle-token=7786e3f19f07823eb3591b3900cf480e5908048e)](https://circleci.com/gh/cyberpwnn/Hadron) | Phantom 
-[**Titles**](https://github.com/cyberpwnn/Titles/releases) - Titles that players can get and customize as chat tags. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, PlaceholderAPI
+[**Titles**](https://github.com/cyberpwnn/Titles/releases) - Titles that players can get and customize as chat tags. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.8  | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, PlaceholderAPI
 [**Static**](https://github.com/cyberpwnn/Static/releases) - Statistics crammed into a database. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.5 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, Votifier, PlaceholderAPI
 [**Effex**](https://github.com/cyberpwnn/Effex/releases) - Enchantments, Potions, Effex. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 4.4 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Effex.svg?style=svg&circle-token=7c90c161571fa5d7a402a2ac64dccd30d330d887)](https://circleci.com/gh/cyberpwnn/Effex) | Phantom
 [**Commune**](https://github.com/cyberpwnn/Commune/releases) - Community enhancements, security and more. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 8.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Commune.svg?style=svg&circle-token=6536db9c18a122eb922d8e798771fcb1f2be688f)](https://circleci.com/gh/cyberpwnn/Commune) | Phantom, PlaceholderAPI, WorldGuard, Essentials
