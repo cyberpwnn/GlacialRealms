@@ -1,12 +1,10 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```11/13/16```
+### Update Logs for ```11/14/16```
 Some updates that have been pushed as of today
 
-* **UnReact 3.1-UN**
-* **Effex 4.5**
-* **Phantom Vortex 6**
+* **Phantom Vortex 7**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
