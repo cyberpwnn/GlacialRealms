@@ -8,6 +8,7 @@ Some updates that have been pushed as of today
  * Commune 8.9
 * **CurrencyShops 4.2**
 * **Technic 3.2**
+* **UnReact 3.2**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -23,7 +24,7 @@ Plugin | Tracker | Version | BuildStatus | Required
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 
 # UnReact
-[Get UnReact (React for cool kids)](https://github.com/cyberpwnn/UnReact/releases/tag/3.1-UN)
+[Get UnReact (React for cool kids)](https://github.com/cyberpwnn/UnReact/releases/tag/3.2-UN)
 
 # Phantom Vortex 9
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
