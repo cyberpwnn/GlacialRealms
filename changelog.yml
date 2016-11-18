@@ -21,6 +21,42 @@ log-1479458418952:
 - c Changed Upgrade Requirement Cost.
 - c Now works with all clients no matter the version
 
+log-1479462082381:
+- /l Chameleon Ability
+- /a cyberpwn
+- /r 420
+- /m BOOK
+- The chameleon ability allows players to cloak themselves from other players. Leather armor is changed depending on what players see behind you.
+- You can access this skill by using the /skill command.
+- w If you are on 1.9.X, 1.10.X or 1.11, Make sure to turn down your PLAYER SOUNDS.
+- a Added the chameleon ability
+- c Changed Upgrade Requirement Cost.
+- c Now works with all clients no matter the version
+
+log-1479462104741:
+- /l Chameleon Ability
+- /a cyberpwn
+- /r 420
+- /m BOOK
+- The chameleon ability allows players to cloak themselves from other players. Leather armor is changed depending on what players see behind you.
+- You can access this skill by using the /skill command.
+- w If you are on 1.9.X, 1.10.X or 1.11, Make sure to turn down your PLAYER SOUNDS.
+- a Added the chameleon ability
+- c Changed Upgrade Requirement Cost.
+- c Now works with all clients no matter the version
+
+log-1479462115407:
+- /l Chameleon Ability
+- /a cyberpwn
+- /r 420
+- /m BOOK
+- The chameleon ability allows players to cloak themselves from other players. Leather armor is changed depending on what players see behind you.
+- You can access this skill by using the /skill command.
+- w If you are on 1.9.X, 1.10.X or 1.11, Make sure to turn down your PLAYER SOUNDS.
+- a Added the chameleon ability
+- c Changed Upgrade Requirement Cost.
+- c Now works with all clients no matter the version
+
 log-1479459488311:
 - /l Random Crap
 - /a SwiftSwamp
