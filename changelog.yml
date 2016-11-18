@@ -1,11 +1,11 @@
 # Use https://currentmillis.com/ for the currentmillis
 
 log-1479454155384:
-- @l Something cool
-- @a cyberpwn
-- @a SwiftSwamp
-- @r 460
-- @m MAGMA_CREAM
+- '@l Something cool'
+- '@a cyberpwn'
+- '@a SwiftSwamp'
+- '@r 460'
+- '@m MAGMA_CREAM'
 
 - - Removed
 - + Added
