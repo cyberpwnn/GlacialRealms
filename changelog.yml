@@ -9,23 +9,14 @@
 # w - Used to dusplay a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
-log-1479457422384:
-- /l Added Documentation
-- /a SwiftSwamp
-- /r 550
-- /m MAGMA_CREAM
-- /s Skyblock
-- /s Factions
-- a Added Documentation to the Changelog.yml
-
-log-1479454155384:
-- /l Something cool
+log-1479458175795:
+- /l Chameleon Ability
 - /a cyberpwn
-- /a SwiftSwamp
-- /r 460
-- /m MAGMA_CREAM
-- x Removed
-- a Added
-- c Changed
-- w Warning 
-- Italic gray crap which is word wrapped for the user bulleted
+- /r 420
+- /m BOOK
+- The chameleon ability allows players to cloak themselves from other players. Leather armor is changed depending on what players see behind you.
+- You can access this skill by using the /skill command.
+- w If you are on 1.9.X, 1.10.X or 1.11, Make sure to turn down your PLAYER SOUNDS.
+- a Added the chameleon ability
+- c Changed Upgrade Requirement Cost.
+- c Now works with all clients no matter the version
