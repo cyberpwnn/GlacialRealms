@@ -20,3 +20,13 @@ log-1479458418952:
 - a Added the chameleon ability
 - c Changed Upgrade Requirement Cost.
 - c Now works with all clients no matter the version
+
+log-1479459488311:
+- /l Random Crap
+- /a SwiftSwamp
+- x Removed Hoppers
+- x Removed All Other Tile Entities
+- x Removed Technic
+- x Removed Spigot
+- x Removed Phantom
+- a Added ClearLagg
