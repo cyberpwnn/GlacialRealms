@@ -7,8 +7,8 @@ log-1479454155384:
 - /r 460
 - /m MAGMA_CREAM
 
-- - Removed
-- + Added
-- $ Changed
-- ! Warning 
+- x Removed
+- a Added
+- c Changed
+- w Warning 
 - Italic gray crap which is word wrapped for the user bulleted
