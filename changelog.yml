@@ -1,4 +1,20 @@
 # Use https://currentmillis.com/ for the currentmillis
+# /l - Title Message
+# /a - Author
+# /r - Reference Issue
+# /m - Display Item (Supports Item IDs!)
+# x - Used to display what's been removed in red with a lightning bolt next to it
+# a - Used to display what's been added in green with a paperclip next to it
+# c - Used to display what's been changed in yellow with a sun next to it
+# w - Used to dusplay a warning in orange with a warning symbol next to it 
+# Anything else is just italic gray crap bulleted
+
+log-1479457422384:
+- /l Added Documentation
+- /a SwiftSwamp
+- /r 550
+- /m MAGMA_CREAM
+- a Added Documentation to the Changelog.yml
 
 log-1479454155384:
 - /l Something cool
