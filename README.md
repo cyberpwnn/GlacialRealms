@@ -1,10 +1,10 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```11/18/16```
+### Update Logs for ```11/19/16```
 Some updates that have been pushed as of today
 
-* **Phantom Kelvin**
+* **Icing 1.0**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
