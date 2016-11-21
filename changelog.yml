@@ -9,7 +9,7 @@
 # w - Used to dusplay a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
-log-1479509469712:
+log-1479694506958:
 - /l Chameleon Ability
 - /a cyberpwn
 - /r 420
@@ -21,23 +21,4 @@ log-1479509469712:
 - c Changed Upgrade Requirement Cost.
 - c Now works with all clients no matter the version
 
-log-1479519233527:
-- /l Another Ability
-- /a cyberpwn
-- /r 440
-- /m DIAMOND
-- The ability allows players to cloak themselves from other players. Leather armor is changed depending on what players see behind you.
-- a Added the chameleon ability
-- c Changed Upgrade Requirement Cost.
-- c Now works with all clients no matter the version
-
-log-1479523655931:
-- /l Another Ability?
-- /a cyberpwn
-- /r 440
-- /m DIAMOND
-- The ability allows players to cloak themselves from other players. Leather armor is changed depending on what players see behind you.
-- a Added the chameleon ability
-- c Changed Upgrade Requirement Cost.
-- c Now works with all clients no matter the version
 
