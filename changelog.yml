@@ -9,16 +9,12 @@
 # w - Used to dusplay a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
-log-1479694506958:
-- /l Chameleon Ability
+log-1479696443922:
+- /l Update tracker released
 - /a cyberpwn
-- /r 420
 - /m BOOK
-- The chameleon ability allows players to cloak themselves from other players. Leather armor is changed depending on what players see behind you.
-- You can access this skill by using the /skill command.
-- w If you are on 1.9.X, 1.10.X or 1.11, Make sure to turn down your PLAYER SOUNDS.
-- a Added the chameleon ability
-- c Changed Upgrade Requirement Cost.
-- c Now works with all clients no matter the version
+- This is the update tracker. You will be notified when we add things or make changes to Glacial Realms
+- You can access this by using /updates
+- w Any issues should be posted on the issue tracker
 
 
