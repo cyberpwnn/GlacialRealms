@@ -1,6 +1,7 @@
 # Use https://currentmillis.com/ for the currentmillis
 # /l - Title Message
 # /a - Author
+# /s - Server
 # /r - Reference Issue (DON'T USE)
 # /m - Display Item (Supports Item IDs!)
 # x - Used to display what's been removed in red with a lightning bolt next to it
@@ -8,6 +9,20 @@
 # c - Used to display what's been changed in yellow with a sun next to it
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
+
+log-1479808662598:
+- /l New Shop Items
+- /a SwiftSwamp
+- /m GOLDEN_APPLE
+- a Skilling Boosters have been added to the BuyCraft Store.
+- w There's currently a 50% Off Sale Going On.
+
+log-1479808558199:
+- /l Prestige 10!
+- /a SwiftSwamp
+- /m NETHER_STAR
+- /s Prison
+- a You will now receive the Prestige Title after hitting Prestige 10.
 
 log-1479706106484:
 - /l Happy Thanksgiving!
