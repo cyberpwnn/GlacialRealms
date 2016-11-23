@@ -1,10 +1,10 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```11/22/16```
+### Update Logs for ```11/23/16```
 Some updates that have been pushed as of today
 
-* **Icing 1.2**
+* **Phantom Kelvin 4**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -22,14 +22,14 @@ Plugin | Tracker | Version | BuildStatus | Required
 # UnReact
 [Get UnReact (React for cool kids)](https://github.com/cyberpwnn/UnReact/releases)
 
-# Phantom Kelvin 3
+# Phantom Kelvin 4
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | K3
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | K4
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
