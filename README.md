@@ -39,7 +39,7 @@ Plugin | Version
 [**WorldGuard**](https://dev.bukkit.org/bukkit-plugins/worldguard/files/47-world-guard-6-1-2-for-versions-up-to-mc-1-10/) - Region management | 6.1.2
 [**Votifier**](https://dev.bukkit.org/bukkit-plugins/votifier/files/9-votifier-1-9/) - Required for some plugins for voting events | 1.9
 [**Citizens**](https://dev.bukkit.org/bukkit-plugins/citizens/files/52-2-0-16-beta-1-for-mc-1-8-8/) - NPC's | 2.0.16
-[**FAWE**](https://github.com/cyberpwnn/GlacialRealms/blob/master/lib/FastAsyncWorldEdit-bukkit18-16.11.17-e16bcae-372-9.11.4.jar?raw=true) - Fast async everything | 16.11.17-e16bcae-372-9.11.4
+[**FAWE**](https://github.com/cyberpwnn/GlacialRealms/blob/master/lib/FastAsyncWorldEdit-bukkit18-16.11.17-e16bcae-372-9.11.4.jar?raw=true) - Fast async everything | 16.11.23-b1d5aeb-377-9.12.1
 
 ### Progress
 ![](progress.png)
