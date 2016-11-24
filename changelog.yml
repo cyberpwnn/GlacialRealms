@@ -10,6 +10,14 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1479995878875:
+- /l New PvP Mine
+- /a SwiftSwamp
+- /m DIAMOND_PICKAXE
+- /s Prison
+- c There is now a new /warp pvp, thanks @xPyroTex
+- c The Token Amount in the PvP Mine has been increased from 4% => 5%
+
 log-1479808662598:
 - /l New Shop Items
 - /a SwiftSwamp
