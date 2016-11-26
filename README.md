@@ -4,7 +4,8 @@ Some sources have been locked from the public, this is useful for the issue trac
 ### Update Logs for ```11/26/16```
 Some updates that have been pushed as of today
 
-* **Icing 1.4**
+* **Icing 1.5**
+ * Icing 1.4
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
