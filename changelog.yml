@@ -10,6 +10,12 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480299428267:
+- /l Fixed Marry TPing
+- /a SwiftSwamp
+- /m APPLE
+- c You can no longer instantly teleport out of Combat via Marry TP
+
 log-1480296691352:
 - /l Fixed PvP Area Glitches
 - /a SwiftSwamp
