@@ -10,6 +10,12 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480300430239:
+- /l Ore Generator Nerf
+- /a SwiftSwamp
+- /m DIAMOND_ORE
+- c Ore Generators have had a massive make over in preparation for the reset
+
 log-1480299428267:
 - /l Fixed Marry TPing
 - /a SwiftSwamp
