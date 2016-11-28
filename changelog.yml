@@ -10,6 +10,13 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480305167990:
+- /a PvP Kit Enhancements
+- /a SwiftSwamp
+- /m DIAMOND_SWORD
+- /s Prison
+- c The PvP Kit now has Unbreaking 1 on all Armor Pieces
+
 log-1480305029677:
 - /l Added Banner Supplies to the Shop
 - /a swiftSwamp
