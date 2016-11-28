@@ -10,8 +10,16 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480305029677:
+- /l Added Banner Supplies to the Shop
+- /a swiftSwamp
+- /m BANNER
+- /s Skyblock
+- /s Factions
+- a You can now purchase Banner SUpplies from the Shop
+
 log-1480303521559:
-- /l Added Bows and Gold Swords to Shop
+- /l Added Bows and Gold Swords to the Shop
 - /a SwiftSwamp
 - /m BOW
 - /s Skyblock
