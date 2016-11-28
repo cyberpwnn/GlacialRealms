@@ -23,9 +23,7 @@ Plugin | Tracker | Version | BuildStatus | Required
 [**Cataclysm**](https://github.com/cyberpwnn/Cataclysm/releases) - Kaboom | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Cataclysm.svg?style=svg&circle-token=6561e08ad92077c01b98cc65008ab7bf0d3c768c)](https://circleci.com/gh/cyberpwnn/Cataclysm) | Phantom
 [**GlacialServer**](https://github.com/cyberpwnn/GlacialServer/releases) - Glacial Rush | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/GlacialServer.svg?style=svg&circle-token=9bcf80c84caebf5f72d8736fc39177a20b0e8df3)](https://circleci.com/gh/cyberpwnn/GlacialServer) | Phantom
 [**GlacialAPI**](https://github.com/cyberpwnn/GlacialAPI/releases) - Glacial Rush API | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/GlacialAPI.svg?style=svg&circle-token=17e4735c4005fbeea3ef6a40d6268e744f9d6b99)](https://circleci.com/gh/cyberpwnn/GlacialAPI) | Phantom
-
-# UnReact
-[Get UnReact (React for cool kids)](https://github.com/cyberpwnn/UnReact/releases)
+[**UnReact**](https://github.com/cyberpwnn/UnReact/releases) - React for Cool kids. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/UnReact.svg?style=svg&circle-token=4129d5f4c62ee3d3209c4c253729e24ea3d0b341)](https://circleci.com/gh/cyberpwnn/UnReact) | Phantom
 
 # Phantom Kelvin 6
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
