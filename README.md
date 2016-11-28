@@ -20,19 +20,19 @@ Plugin | Tracker | Version | BuildStatus | Required
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 [**Cataclysm**](https://github.com/cyberpwnn/Cataclysm/releases) - Kaboom | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Cataclysm.svg?style=svg&circle-token=6561e08ad92077c01b98cc65008ab7bf0d3c768c)](https://circleci.com/gh/cyberpwnn/Cataclysm) | Phantom
 [**GlacialServer**](https://github.com/cyberpwnn/GlacialServer/releases) - Glacial Rush | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/GlacialServer.svg?style=svg&circle-token=9bcf80c84caebf5f72d8736fc39177a20b0e8df3)](https://circleci.com/gh/cyberpwnn/GlacialServer) | Phantom
-[**GlacialAPI**](https://github.com/cyberpwnn/GlacialAPI/releases) - Glacial Rush API | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.8.8.528 | [![CircleCI](https://circleci.com/gh/cyberpwnn/GlacialAPI.svg?style=svg&circle-token=17e4735c4005fbeea3ef6a40d6268e744f9d6b99)](https://circleci.com/gh/cyberpwnn/GlacialAPI) | Phantom
+[**GlacialAPI**](https://github.com/cyberpwnn/GlacialAPI/releases) - Glacial Rush API | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/GlacialAPI.svg?style=svg&circle-token=17e4735c4005fbeea3ef6a40d6268e744f9d6b99)](https://circleci.com/gh/cyberpwnn/GlacialAPI) | Phantom
 
 # UnReact
 [Get UnReact (React for cool kids)](https://github.com/cyberpwnn/UnReact/releases)
 
-# Phantom Kelvin 5
+# Phantom Kelvin 6
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | K5
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | K6
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
