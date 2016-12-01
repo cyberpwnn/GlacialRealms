@@ -10,6 +10,15 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480614984745:
+- /l Missing Chunk Glitch Fixed
+- /a cyberpwn
+- /m GRASS
+- c Fixed an issue where chunks would sometimes vanish (16x16x16 sections)
+- If you are still having issues with this, you can try several things.
+- w 1). Try actually going inside of the chunk (this will force it to fix)
+- w 2). Use /spawn, and then /back (or /home)
+
 log-1480575070805:
 - /l Spawner Fixes & New Abilities
 - /a cyberpwn
