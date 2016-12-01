@@ -10,6 +10,17 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480575070805:
+- /l Spawner Fixes & New Abilities
+- /a cyberpwn
+- /m MOB_SPAWNER
+- /s Skyblock
+- /s Factions
+- c Fixed Spawners Reverting to Pigs, Glitched Spawners will also place normally now.
+- c Attempting to mine a spawner will no longer tell you it's going to charge when it doesn't
+- a Pickaxe Shredding Ability, you can now mine multiple ores at once
+- a Axes Splitting Ability, you can now damage Armor faster
+
 log-1480556417179:
 - /l Reset and Advertisement
 - /a SwiftSwamp
