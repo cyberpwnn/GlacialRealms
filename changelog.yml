@@ -10,6 +10,17 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480556417179:
+- /l Reset and Advertisement
+- /a SwiftSwamp
+- /m FIREWORK
+- /s Skyblock
+- /s Factions
+- a Both Skyblock and Factions have been reset!
+- a Our Minecraft-Server-List Advertisement Is Now Live!
+- x Skyblock South has been removed and merged with Skyblock North
+- w Please report all Bugs and Suggestions on the forums.
+
 log-1480305167990:
 - /l PvP Kit Enhancements
 - /a SwiftSwamp
