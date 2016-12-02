@@ -47,5 +47,5 @@ Plugin | Version
 [**Citizens**](https://dev.bukkit.org/bukkit-plugins/citizens/files/52-2-0-16-beta-1-for-mc-1-8-8/) - NPC's | 2.0.16
 [**FAWE**](https://github.com/cyberpwnn/GlacialRealms/tree/master/lib) - Fast async everything | 16.11.23-b1d5aeb-377-9.12.1
 
-### Progress
+### The Struggle
 ![](progress.png)
