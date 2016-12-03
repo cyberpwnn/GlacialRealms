@@ -1,14 +1,8 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```12/1/16```
+### Update Logs for ```12/2/16```
 Some updates that have been pushed as of today
-
-* **Phantom Kelvin 9**
-* **Titles 3**
-* **Commune 9.7**
- * Commune 9.6
-* **Currency Shops 4.4**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
