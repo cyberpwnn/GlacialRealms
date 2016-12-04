@@ -10,6 +10,15 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480833381071:
+- /l Enchantment Changes 
+- /a cyberpwn
+- /m ENCHANTED_BOOK
+- /s Skyblock
+- /s Factions
+- c Changed Max enchantment limit from 4 of custom + 4 of vanilla to a max 8 of any enchantment combination.
+- x Removed issue with enchantments not being removed when approaching max limit (dupe)
+
 log-1480614984745:
 - /l Missing Chunk Glitch Fixed
 - /a cyberpwn
