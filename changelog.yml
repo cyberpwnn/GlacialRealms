@@ -10,6 +10,17 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1480875300464:
+- /l Build Event is Live!
+- /a SwiftSwamp
+- /m EMERALD_BLOCK
+- /s Event
+- a The Build Event is now live! It'll last from 1PM-4PM Eastern
+- Head over to the build event by typing /server event
+- You have access to WorldEdit, VoxelSniper and Item
+- To get started type /plot auto
+- Good Luck!
+
 log-1480833381071:
 - /l Enchantment Changes 
 - /a cyberpwn
