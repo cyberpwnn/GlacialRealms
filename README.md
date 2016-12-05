@@ -4,11 +4,12 @@ Some sources have been locked from the public, this is useful for the issue trac
 ### Update Logs for ```12/5/16```
 Some updates that have been pushed as of today
 * **Commune 9.8**
-* **CurrencyShops 4.5**
+* **CurrencyShops 4.6**
+ * CurrencyShops 4.5
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
-[**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 4.5 | [![CircleCI](https://circleci.com/gh/cyberpwnn/CurrencyShops.svg?style=svg&circle-token=ccb4ed96514a9bde1c28a3f5123a926ad984e46f)](https://circleci.com/gh/cyberpwnn/CurrencyShops) | Phantom, Vault 
+[**CurrencyShops**](https://github.com/cyberpwnn/CurrencyShops/releases) - CURRENCY SHOPS | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 4.6 | [![CircleCI](https://circleci.com/gh/cyberpwnn/CurrencyShops.svg?style=svg&circle-token=ccb4ed96514a9bde1c28a3f5123a926ad984e46f)](https://circleci.com/gh/cyberpwnn/CurrencyShops) | Phantom, Vault 
 [**Hadron**](https://github.com/cyberpwnn/Hadron/releases) - Anticheat with the power demand of a hadron collider. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Hadron.svg?style=svg&circle-token=7786e3f19f07823eb3591b3900cf480e5908048e)](https://circleci.com/gh/cyberpwnn/Hadron) | Phantom 
 [**Titles**](https://github.com/cyberpwnn/Titles/releases) - Titles that players can get and customize as chat tags. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3  | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, PlaceholderAPI
 [**Static**](https://github.com/cyberpwnn/Static/releases) - Statistics crammed into a database. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.5 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Titles.svg?style=svg&circle-token=093b3644a6a89439ab92ee020664d287e432abaf)](https://circleci.com/gh/cyberpwnn/Titles) | Phantom, Votifier, PlaceholderAPI
