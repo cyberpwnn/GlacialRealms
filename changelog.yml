@@ -10,6 +10,14 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1481310070242:
+- /l New Payment Method
+- /a SwiftSwamp
+- /m NETHER_STAR
+- c GlacialRealms now supports PayGol as a Payment Gateway!
+- This payment method allows you to pay with SMS / Mobile or PaysafeCards!
+- w There is a 10% Price Offset due to the increased Seller Fees with Mobile
+
 log-1481307296506:
 - /l Store Changes
 - /a SwiftSwamp
