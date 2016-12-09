@@ -10,10 +10,11 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
-log-1481315745134:
+log-1481316066125:
 - /l Head Building Tool
 - /a SwiftSwamp
-- /m SKULL
+- /m 397:3
+- /s Creative
 - a You now have access to the /heads command to help with more detailed building.
 
 log-1481310070242:
