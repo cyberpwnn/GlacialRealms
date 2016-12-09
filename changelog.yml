@@ -10,15 +10,23 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1481307082976:
+- /l Store Changes
+- /a SwiftSwamp
+- /m NETHER_STAR
+- c The Store is having a complete revamp soon so get your supplies while they're still cheap!
+- All current ranks and crates will still have the same items in them except they're going to have better goodies in the next few coming days
+- You will also have the ability to purchase individual rank perks if a rank is too much for you (Please be careful as we will not refund you for a perk purchase once you buy a rank)
+
 log-1481306698509:
-- /l KoTHs Lineup Is Set
+- /l KoTH Lineup Is Live
 - /a SwiftSwamp
 - /m DIAMOND_SWORD
 - /s Factions
 - a The King of the Hill Lineup is now set!
 - You can find the servers current time and KoTH Schedule with /koth schedule list
 - Each KoTH will run multiple times a day to allow everyone in different timezones to have the chance to attend
-- The Times are
+- The Times when KoTHs will run are
 - 6PM GMT (1PM Eastern)
 - 6PM EST (6PM Eastern)
 - 6PM PST (9PM Eastern)
