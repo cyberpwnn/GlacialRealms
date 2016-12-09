@@ -10,6 +10,20 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1481306698509:
+- /l KoTHs Lineup Is Set
+- /a SwiftSwamp
+- /m DIAMOND_SWORD
+- /s Factions
+- a The King of the Hill Lineup is now set!
+- You can find the servers current time and KoTH Schedule with /koth schedule list
+- Each KoTH will run multiple times a day to allow everyone in different timezones to have the chance to attend
+- The Times are:
+- 6PM GMT (1PM Eastern)
+- 6PM EST (6PM Eastern)
+- 6PM PST (9PM Eastern)
+- 6PM AEST (3AM Eastern)
+
 log-1480875300464:
 - /l Build Event is Live!
 - /a SwiftSwamp
