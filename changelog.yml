@@ -10,15 +10,15 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
-log-1481307082976:
+log-1481307296506:
 - /l Store Changes
 - /a SwiftSwamp
 - /m NETHER_STAR
-- c The Store is having a complete revamp soon so get your supplies while they're still cheap!
-- All current ranks and crates will still have the same items in them except they're going to have better goodies in the next few coming days
+- c The Store is having a partial revamp soon! Get your Ranks / Crates before the price changes.
+- All Ranks and Crates will have additional perks / goodies to choose from in the next few days, no one will lose any current perks.
 - You will also have the ability to purchase individual rank perks if a rank is too much for you (Please be careful as we will not refund you for a perk purchase once you buy a rank)
 
-log-1481306698509:
+log-1481307289117:
 - /l KoTH Lineup Is Live
 - /a SwiftSwamp
 - /m DIAMOND_SWORD
