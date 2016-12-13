@@ -10,6 +10,73 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1481651291573:
+- /l Forum Changes
+- /a SwiftSwamp
+- /m WRITEABLE_BOOK
+- a You can now see your current alerts live through the Title of the website
+- c Posts will now automatically lock after 2 weeks of inactivity
+
+log-1481649949991:
+- /l New Multiblock Structure
+- /a cyberpwn
+- /m NETHERRACK
+- /s Skyblock
+- /s Factions
+- a Nether Turrets have been added to the network.
+- They act the same as Mob Turrets except they catch everything on fire around them.
+- Type /mbh nether-turret to see how to build one
+- You can do the same for alarm, mob-turret and the smeltery
+
+log-1481649375635:
+- /l Network Changes
+- /a SwiftSwamp
+- /m NETHER_STAR
+- a It is now snowing on the network!
+- c Fixed Lobby Load Balancing
+- c Increased max allowed accounts per IP from 3 => 5
+- c Removed SkyWars in preparation for a more player gamemode
+- c Fixed Combat Tagging not working
+
+log-1481649403170:
+- /l Skyblock Changes
+- /a SwiftSwamp
+- /a cyberpwn
+- /m GRASS
+- /s Skyblock
+- a You can now auto fill ChestShops with Hoppers
+- c Fixed the Safe Zone areas at warp pvp
+- c Resolved all Crashing and Redstone Issues
+- c Fixed pickaxes sometimes not breaking when the durability would reach 0
+- c Fixed Typo in Enchantment API Book
+
+log-1481649390363:
+- /l Faction Changes
+- /a SwiftSwamp
+- /c cyberpwn
+- /m DIAMOND_SWORD
+- s Factions
+- a Disabled Ice Forming in the Overowrld
+- c Iron Golems have been increased from $375,000 => $1,250,000
+- c Resolved Entities not being removed from the world causing a large build up resulting in lag
+- c Fixed pickaxes sometimes not breaking when the durability would reach 0
+- c Fixed Typo in Enchantment API Book
+
+log-1481649300679:
+- /l KitPvP Changes
+- /a SwiftSwamp
+- /m POTION
+- c Increased the teleport delay from 3 => 7 seconds
+
+log-1481649209924:
+- /l CurrencyShop Updates
+- /a SwiftSwamp
+- /a cyberpwn
+- /a lapis_block
+- /m GOLD_INGOT
+- a Fixed the ability to pay yourself a negative balance resulting in the ability to have an infinite currency (Thanks @lapis_block)
+- a Resolved all data loss issues that were occurring
+
 log-1481618358184:
 - /l Lag Fixes and Optimizations
 - /a SwiftSwamp
