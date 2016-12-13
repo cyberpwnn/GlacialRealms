@@ -55,7 +55,7 @@ log-1481649390363:
 - /a SwiftSwamp
 - /c cyberpwn
 - /m DIAMOND_SWORD
-- s Factions
+- /s Factions
 - a Disabled Ice Forming in the Overowrld
 - c Iron Golems have been increased from $375,000 => $1,250,000
 - c Resolved Entities not being removed from the world causing a large build up resulting in lag
