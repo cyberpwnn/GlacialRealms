@@ -1,15 +1,11 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```12/12/16```
+### Update Logs for ```12/15/16```
 Some updates that have been pushed as of today
-* **Phantom Death 4**
-* **Commune 10**
 
 ### Staged Updates
 These updates **should not be updated until the entire network can be rebooted along with cyberpwn's aproval**. This is due to the nature of plugin updates (sometimes conversions can have serious data loss without proper preperations)
-* **Titles 3.3**
-* **Currency Shops 4.7**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
