@@ -10,46 +10,49 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
-log-1482072326354:
+log-1482073030820:
 - /l Block Value Changes
 - /a SwiftSwamp
 - /m GRASS
+- /s Skyblock
 - a All Ores are now worth 20% of their block forms.
-- c Hoppers: 10 => 75
-- c Mob Spawners: 0 => 250
-- c Coal Block: 9 => 10
-- c Redstone Block: 8 => 12
-- c Added Nether Quartz Block: 20
-- c Lapis Block: 65 => 35
-- c Iron Block: 30 => 50
-- c Gold Block: 150 => 75
-- c Diamond Block: 300 => 100
-- c Emerald Block: 150 => 150
+- a Added Nether Quartz Block - 20
+- c Hoppers - 10 => 75
+- c Mob Spawners - 0 => 250
+- c Coal Block - 9 => 10
+- c Redstone Block - 8 => 12
+- c Lapis Block - 65 => 35
+- c Iron Block - 30 => 50
+- c Gold Block - 150 => 75
+- c Diamond Block - 300 => 100
+- c Emerald Block - 150 => 150
 
-log-1482072021070:
+log-1482073026086:
 - /l Shop Changes
 - /a SwiftSwamp
 - /m NETHER_STAR
+- /s Skyblock
 - a Added Oak Saplings for $8.0 Each
-- c Coal: $6.4 => $4.0
-- c Redstone: $4.0 => 6.0
-- c Lapis: $9.0 => $7.5
-- c Added Nether Quartz: $12.00
-- c Iron Ingot: Staying the same ($18.00)
-- c Gold Ingot: $25.0 => $35.0
-- c Diamond: $175.0 => $135.0
-- c Emerald: $150.0 => $165.0
-- c Cactus: $8.0 => $11.0
-- c Sulphur: $10.0 => $15.0
-- c Rotten Flesh: $2.5 => $4.0
-- c Logs: $2.0 => $4.5
-- c Cocoa Beans: $4.5 => $7.0
-- c Apple: $3.0 => $6.0
+- c Coal - $6.4 => $4.0
+- c Redstone - $4.0 => 6.0
+- c Lapis - $9.0 => $7.5
+- c Added Nether Quartz - $12.00
+- c Iron Ingot - Staying the same ($18.00)
+- c Gold Ingot - $25.0 => $35.0
+- c Diamond - $175.0 => $135.0
+- c Emerald - $150.0 => $165.0
+- c Cactus - $8.0 => $11.0
+- c Sulphur - $10.0 => $15.0
+- c Rotten Flesh - $2.5 => $4.0
+- c Logs - $2.0 => $4.5
+- c Cocoa Beans - $4.5 => $7.0
+- c Apple - $3.0 => $6.0
 
-log-1482071934847:
+log-1482073020941:
 - /l Ore Generator Changes
 - /a SwiftSwamp
 - /m DIAMOND_PICKAXE
+- /s Skyblock
 - a Added Nether Quartz Ore - 7% Chance
 - c Cobblestone - 70% Chance => 65% Chance
 - c Stone - 15% Chance => 25% Chance
