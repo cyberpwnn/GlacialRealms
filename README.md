@@ -7,7 +7,7 @@ Some updates that have been pushed as of today
 * **Technic 4.1**
 
 ### Staged Updates
-These updates **should not be updated until the entire network can be rebooted along with cyberpwn's aproval**. This is due to the nature of plugin updates (sometimes conversions can have serious data loss without proper preperations)
+These updates **should not be updated until the entire network can be rebooted along with cyberpwn's aproval**. This is due to the nature of plugin updates (sometimes conversions can have serious data loss without proper preperations).
 
 * **Phantom Death 5**
 * **Titles 3.4**
