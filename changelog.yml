@@ -10,6 +10,57 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1482072326354:
+- /l Block Value Changes
+- /a SwiftSwamp
+- /m GRASS
+- a All Ores are now worth 20% of their block forms.
+- c Hoppers: 10 => 75
+- c Mob Spawners: 0 => 250
+- c Coal Block: 9 => 10
+- c Redstone Block: 8 => 12
+- c Added Nether Quartz Block: 20
+- c Lapis Block: 65 => 35
+- c Iron Block: 30 => 50
+- c Gold Block: 150 => 75
+- c Diamond Block: 300 => 100
+- c Emerald Block: 150 => 150
+
+log-1482072021070:
+- /l Shop Changes
+- /a SwiftSwamp
+- /m NETHER_STAR
+- a Added Oak Saplings for $8.0 Each
+- c Coal: $6.4 => $4.0
+- c Redstone: $4.0 => 6.0
+- c Lapis: $9.0 => $7.5
+- c Added Nether Quartz: $12.00
+- c Iron Ingot: Staying the same ($18.00)
+- c Gold Ingot: $25.0 => $35.0
+- c Diamond: $175.0 => $135.0
+- c Emerald: $150.0 => $165.0
+- c Cactus: $8.0 => $11.0
+- c Sulphur: $10.0 => $15.0
+- c Rotten Flesh: $2.5 => $4.0
+- c Logs: $2.0 => $4.5
+- c Cocoa Beans: $4.5 => $7.0
+- c Apple: $3.0 => $6.0
+
+log-1482071934847:
+- /l Ore Generator Changes
+- /a SwiftSwamp
+- /m DIAMOND_PICKAXE
+- a Added Nether Quartz Ore - 7% Chance
+- c Cobblestone - 70% Chance => 65% Chance
+- c Stone - 15% Chance => 25% Chance
+- c Coal Ore - 10% Chance => 12% Chance
+- c Redstone Ore - 8% Chance => 10% Chance
+- c Lapis Ore - 7% Chance => 5% Chance
+- c Iron Ore - 6% Chance => 4% Chance
+- c Gold Ore - 5% Chance => 3% Chance
+- c Diamond Ore - 4% Chance => 2% Chance
+- c Emerald Ore - 3% Chance => 1% Chance
+
 log-1482001103616:
 - /l Title Updates
 - /a SwiftSwamp
