@@ -10,20 +10,6 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
-log-1482157620081:
-- /l Another test update
-- /a SwiftSwamp
-- /m NETHER_STAR
-- a 'This is a testing update.'
-- 'c this is a change c change testing'
-
-log-1482157482283:
-- /l This is a test update
-- /a SwiftSwamp
-- /m NETHER_STAR
-- a This is a test for testing.
-- c This is a change c change testing
-
 log-1482073030820:
 - /l Block Value Changes
 - /a SwiftSwamp
