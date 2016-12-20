@@ -10,6 +10,14 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1482261181114:
+- /l Raiding Improvements
+- /a SwiftSwmap
+- /m DIAMOND_SWORD
+- /s Factions
+- c Creepers spawned by Eggs no longer stack
+- c You can now place Ceggs on Spawners, however they are counted as a spawned mob and will stack so be careful!
+
 log-1482256011802:
 - /l Merry Christmas!
 - /a SwiftSwamp
@@ -32,13 +40,6 @@ log-1482251054235:
 - /s Factions
 - a New Mob Stacking Algorithm
 - c Fixed being able to use TNT to grief locked spawners
-
-log-1482250992000:
-- /l Raiding Improvements
-- /a SwiftSwmap
-- /m DIAMOND_SWORD
-- /s Factions
-- c Creepers spawned by Eggs no longer stack
 
 log-1482073030820:
 - /l Block Value Changes
