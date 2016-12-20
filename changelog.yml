@@ -10,6 +10,30 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1482251138560:
+- /l Auction Update and Condense Alias
+- /a SwiftSwamp
+- /m DIAMOND_ORE
+- a You can now search for items in the auction house (A search of '/ah search sword efficiency' will return all auctions that are a sword and contain the efficiency enchantment.)
+- a /block is now an Alias of /condense
+
+log-1482251054235:
+- /l Mob Improvements
+- /a SwiftSwamp
+- /m SPAWN_EGG
+- /s Skyblock
+- /s Factions
+- a New Mob Stacking Algorithm
+- c Fixed being able to use TNT to grief locked spawners
+
+log-1482250991454:
+- /l Raiding Improvements
+- /a SwiftSwmap
+- /m DIAMOND_SWORD
+- /s Factions
+- a Withers are now usable in the End World
+- c Creepers spawned by Eggs no longer stack
+
 log-1482073030820:
 - /l Block Value Changes
 - /a SwiftSwamp
