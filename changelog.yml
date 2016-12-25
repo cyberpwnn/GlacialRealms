@@ -10,6 +10,22 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1482682428124:
+- /l Bug Fixes and Changes
+- /a SwiftSwamp
+- /a cyberpwn
+- /m NETHER_STAR
+- a Added /item to the Voting Rewards for Creative
+- a You can now use /marry gift <partner>
+- c There is no longer a range limit on marrying or kissing your partner
+- c Cooldown timer for kissing has been shortened to 5 seconds
+- c Marraige Chat is now global (/mtoggle or /marry chat <msg>)
+- c Fixed Border Bouncing Teleportation Invulnerability
+- c Fixed being able to use Item Rename Tags to infinitely combine enchantments onto items
+- c Fixed all Block Breaking / Placing Lag Glitches
+- c Fixed where some Cannons would not work on Factions
+- c Fixed where spawners would still sometimes (rarley) still revert back to Pigs
+
 log-1482261181114:
 - /l Raiding Improvements
 - /a SwiftSwmap
