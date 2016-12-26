@@ -10,6 +10,22 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1482794555861:
+- /l McMMO Changes and 1.7 Support
+- /a SwiftSwamp
+- /a cyberpwn
+- /m DIAMOND_SWORD
+- a Added 1.7 Support for PvP Servers
+- a Reenabled McMMO PvP Skills
+- c Fixed additional speed bonus while flying with stealth
+- c Max Disarm chance has been lowered from 33% => 5%
+- c Max Unarmed Damage has been lowered from 8 => 6
+- c SerratedStrikes has had it's Damage Modifier lowered from 4.0 => 2.5
+- c DamageModifier for Counter has been lowered from 2.0 => 1.2
+- c Mining Double Drops has been lowered from 100% => 60% Chance
+- c Max Bonus Damage for Axes has been lowered from 4.0 => 2.5
+- c Max Damage for Skill Shot has been lowered from 9.0 => 7.0
+
 log-1482682428124:
 - /l Bug Fixes and Changes
 - /a SwiftSwamp
