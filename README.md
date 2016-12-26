@@ -1,17 +1,13 @@
 # Downloads & Information
 Some sources have been locked from the public, this is useful for the issue tracker. Simply create a new issue https://9-volt.github.io/bug-life/?repo=cyberpwnn/GlacialRealms
 
-### Update Logs for ```12/19/16```
+### Update Logs for ```12/25/16```
 Some updates that have been pushed as of today
 
-* **Commune 10.1**
+* **Icing 2**
 
 ### Staged Updates
 These updates **should not be updated until the entire network can be rebooted along with cyberpwn's aproval**. This is due to the nature of plugin updates (sometimes conversions can have serious data loss without proper preperations).
-
-* **Phantom Death 5**
-* **Titles 3.4**
-* **Icing 1.9**
 
 Plugin | Tracker | Version | BuildStatus | Required
 ------------- | ------------- | ------------- | ------------- | -------------
@@ -23,7 +19,7 @@ Plugin | Tracker | Version | BuildStatus | Required
 [**Commune**](https://github.com/cyberpwnn/Commune/releases) - Community enhancements, security and more. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 10.1 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Commune.svg?style=svg&circle-token=6536db9c18a122eb922d8e798771fcb1f2be688f)](https://circleci.com/gh/cyberpwnn/Commune) | Phantom, PlaceholderAPI, WorldGuard, Essentials
 [**Factions+**](https://github.com/cyberpwnn/FactionsPlus/releases) - Factions Enhancements | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FactionsPlus.svg?style=svg&circle-token=6d44bfe5db54516e2397dcf42e7c179c6736e0f0)](https://circleci.com/gh/cyberpwnn/FactionsPlus) | Phantom, Factions, React, CurrencyShops, Vault
 [**FAP**](https://github.com/cyberpwnn/FAP/releases) - A FAP a day keeps the lag at bay. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2.7 | [![CircleCI](https://circleci.com/gh/cyberpwnn/FAP.svg?style=svg&circle-token=7b7baf7ec533ab8e1d1fc27f9b4dd63595d866d2)](https://circleci.com/gh/cyberpwnn/FAP) | Phantom
-[**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.9 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Icing.svg?style=svg&circle-token=55caa2d95a6a7d2d03fd9776f37fe733f9fdace0)](https://circleci.com/gh/cyberpwnn/Icing) | Phantom
+[**Icing**](https://github.com/cyberpwnn/Icing/releases) - Icing on the bottom of the cake. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Icing.svg?style=svg&circle-token=55caa2d95a6a7d2d03fd9776f37fe733f9fdace0)](https://circleci.com/gh/cyberpwnn/Icing) | Phantom
 [**Technic**](https://github.com/cyberpwnn/Technic/releases) - You know what it is. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 4.1 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Technic.svg?style=svg&circle-token=a292a4b36065174bed4fdc751d97ffdc05292507)](https://circleci.com/gh/cyberpwnn/Technic) | Phantom
 [**Cataclysm**](https://github.com/cyberpwnn/Cataclysm/releases) - Kaboom | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Cataclysm.svg?style=svg&circle-token=6561e08ad92077c01b98cc65008ab7bf0d3c768c)](https://circleci.com/gh/cyberpwnn/Cataclysm) | Phantom
 [**GlacialServer**](https://github.com/cyberpwnn/GlacialServer/releases) - Glacial Rush | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.8 | [![CircleCI](https://circleci.com/gh/cyberpwnn/GlacialServer.svg?style=svg&circle-token=9bcf80c84caebf5f72d8736fc39177a20b0e8df3)](https://circleci.com/gh/cyberpwnn/GlacialServer) | Phantom
