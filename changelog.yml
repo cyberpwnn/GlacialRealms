@@ -10,6 +10,18 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1482892795725:
+- /l Crate and Rank Updates
+- /a SwiftSwamp
+- /m ENDER_CHEST
+- a Added in Monthly Rank Kits that give out Item Rename Tags and Crate Keys
+- c Title Cratekeys have been increased from $1.99 => $2.99
+- c Crystal Cratekeys have been increased from $2.49 => $4.99
+- c Frozen Cratekeys have been increased from $4.99 => $9.99
+- c Glacial Cratekeys have been increased from $9.99 => $14.99
+- All Rank Prices are about to increase as well with the new addition of more rank perks / features
+- You can purchase Cratekeys using the /buy command
+
 log-1482794555861:
 - /l McMMO Changes and 1.7 Support
 - /a SwiftSwamp
