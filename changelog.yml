@@ -10,6 +10,22 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1483187912013:
+- /l Loot Crates
+- /a SwiftSwamp
+- /m NETHER_STAR
+- /s Skyblock
+- /s Prison
+- /s Factions
+- /s KitPvP
+- a Added in Monthly Loot Crates that can be found at spawn or accessed by typing /rewards
+- a Added the Special Loot Crate that contains multiple Cratekeys and other Goodies
+- c Monthly Rank Kits have been moved over to the Loot Crate system
+- These Loot Crates can be redeemed once every 30 days.
+- The Timer is global meaning you can not redeem it on Factions if you already used it on Skyblock.
+- Each Rank has their own Loot Crate and you can also purchase additional Loot Crates with /buy
+
+
 log-1482892795725:
 - /l Crate and Rank Updates
 - /a SwiftSwamp
