@@ -7,7 +7,8 @@ Some updates that have been pushed as of today
 * **Commune 10.4**
  * Commune 10.3
  * Commune 10.2
-* **Phantom Death 8**
+* **Phantom Zenith**
+ * Phantom Death 8
  * Phantom Death 7
 * **Technic 4.2**
 * **Effex 5.1**
@@ -33,14 +34,14 @@ Plugin | Tracker | Version | BuildStatus | Required
 [**UnReact**](https://github.com/cyberpwnn/UnReact/releases) - React for Cool kids. | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 3.2 | [![CircleCI](https://circleci.com/gh/cyberpwnn/UnReact.svg?style=svg&circle-token=4129d5f4c62ee3d3209c4c253729e24ea3d0b341)](https://circleci.com/gh/cyberpwnn/UnReact) | Phantom
 [**Saron**](https://github.com/cyberpwnn/Saron/releases) - Pew Pew Pew | [Add](https://github.com/cyberpwnn/GlacialRealms/issues/new) | 1.0 | [![CircleCI](https://circleci.com/gh/cyberpwnn/Saron.svg?style=svg&circle-token=0953280d515c3f9c7407e864f5946b86738a5d85)](https://circleci.com/gh/cyberpwnn/Saron) | Phantom
 
-# Phantom Death 8
+# Phantom Zenith
 [![](https://raw.githubusercontent.com/PhantomAPI/Phantom/master/button.png)](https://github.com/cyberpwnn/Phantom/releases)
 [![](https://github.com/cyberpwnn/Phantom/raw/master/phantom-micro.png)](https://github.com/cyberpwnn/Phantom/releases)
 
 # Required Plugins
 Plugin | Version
 ------------- | -------------
-[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | D8
+[**Phantom**](https://github.com/cyberpwnn/Phantom/releases) - Used for most plugins for almost everything relating to structuring, configurations, networking, tasking and much more. | Z
 [**Vault**](https://dev.bukkit.org/media/files/894/359/Vault.jar) - Some plugins need this for an economy link, or permissions. | 1.5.6
 [**Essentials**](https://hub.spigotmc.org/jenkins/job/Spigot-Essentials/) - Some plugins need this to hook into some values for essentials | 2x
 [**ProtocolLib**](https://www.spigotmc.org/resources/protocollib.1997/) - Required by phantom, used for uncommon witchcraft | 4.1
