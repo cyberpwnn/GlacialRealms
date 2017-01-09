@@ -10,6 +10,14 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1483997029314:
+- /l Island Chat and Updates
+- /a SwiftSwamp
+- /m NETHER_STAR
+- c Fixed Island Teamchat not working (/is tc)
+- Sorry that we haven't been pushing that many updates out, I have been working on something big.
+- This should change the way the network is viewed and help gain a lot of popularity
+
 log-1483187912013:
 - /l Loot Crates
 - /a SwiftSwamp
