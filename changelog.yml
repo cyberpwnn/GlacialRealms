@@ -10,6 +10,17 @@
 # w - Used to display a warning in orange with a warning symbol next to it 
 # Anything else is just italic gray crap bulleted
 
+log-1484042754376:
+- /l Mob AI
+- /a SwiftSwamp
+- /m MONSTER_SPAWNER
+- /s Skyblock
+- /s Factions
+- c You will now Keep your inventory upon death in the Skyblock Island World
+- c The Mob AI has been turned back on
+- c Natural Monster Spawning is now back
+- These means that all mobs will now spawn naturally again under the right conditions and aggressive monsters will fight back again
+
 log-1483997029314:
 - /l Island Chat and Updates
 - /a SwiftSwamp
